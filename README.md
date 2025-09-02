@@ -27,4 +27,5 @@ The AWS Certified Cloud Practitioner is an entry-level certification that valida
 - [Storage](./storage/topic-notes.md)
 - [Databases](./databases/database-design.md)
 - [Resources](./resources/helpful-links.md)
+- [Networking](./networking/topix-notes.md)
 
