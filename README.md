@@ -1,5 +1,5 @@
 # AWS-Restart-Program-Cloud-Practitioner-Certificate Journey-
-Welcome to my learning journey towards becoming an AWS Certified Cloud Practitioner (CLF-C02). This repository was forked from Ms Thabelo Muthuvhukuma (https://github.com/Thabelo-M/aws-reStart-Journey) as a guide and template to help as graduates to documents notes, study resources, and hands-on labs as we explore the fundamentals of Amazon Web Services (AWS) and cloud computing.
+Welcome to my learning journey towards becoming an AWS Certified Cloud Practitioner (CLF-C02). This repository was forked from Ms Thabelo Muthuvhukuma (https://github.com/Thabelo-M/aws-reStart-Journey) as a guide and template to help us as graduates to document notes, study resources, and hands-on labs as we explore the fundamentals of Amazon Web Services (AWS) and cloud computing.
 
 ## Why This Repo?
 
