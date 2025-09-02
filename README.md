@@ -1,20 +1,25 @@
-# My Restart Graduate Journey
-
-This repository is a guide and template to help Restart graduates document what they’ve learned throughout the program. It includes sample folders, notes, and lab examples for each major topic: Compute, Storage, Databases, and more.
+# AWS-Restart-Program-Cloud-Practitioner-Certificate Journey-
+Welcome to my learning journey towards becoming an AWS Certified Cloud Practitioner (CLF-C02). This repository was forked from Ms Thabelo Muthuvhukuma (https://github.com/Thabelo-M/aws-reStart-Journey) as a guide and template to help as graduates to documents notes, study resources, and hands-on labs as we explore the fundamentals of Amazon Web Services (AWS) and cloud computing.
 
 ## Why This Repo?
 
-- Helps you build a habit of technical documentation
-- Serves as a personal knowledge base
-- Becomes a portfolio you can share with recruiters
-- Teaches you Git, GitHub, Markdown, and professional writing
+ ### This repository serves multiple purposes as I progress through my AWS Cloud Practitioner journey:
+- Builds a Habit of Technical Documentation: Regularly updating this repo helps me practice clear and concise documentation skills.
+- Personal Knowledge Base: Acts as a centralized place to store notes, projects, and insights for future reference.
+- Portfolio for Recruiters: Showcases my learning process, hands-on projects, and commitment to potential employers.
+- Learning Git, GitHub, and Markdown: Enhances my skills in version control, GitHub workflows, Markdown formatting, and professional writing.
 
-## How to Use This Repo
+## About the AWS Cloud Practitioner Certification
 
-1. Fork this repository into your GitHub account
-2. Replace the sample notes with your own
-3. Push your changes regularly
-4. Link this repo on your LinkedIn profile (see below)
+The AWS Certified Cloud Practitioner is an entry-level certification that validates foundational knowledge of AWS services, cloud concepts, databases, linux, networking, security, pricing, and architecture. It’s perfect for beginners or professionals seeking a high-level understanding of AWS.
+
+## Topics I found Interesting
+1. Compute
+2. Networking
+3. Databases
+4. Storage
+5. Security
+6. Python
 
 ## Topics
 
@@ -23,13 +28,3 @@ This repository is a guide and template to help Restart graduates document what 
 - [Databases](./databases/database-design.md)
 - [Resources](./resources/helpful-links.md)
 
-## Bonus: Publish a GitHub Pages Site
-
-You can even turn this into a personal portfolio site. Go to Settings → Pages → Deploy from Branch → `main`, `/ (root)`.  
-GitHub will generate a public link for you.
-
-## Want to Learn Markdown?
-
-- [Markdown Basics on GitHub Docs](https://docs.github.com/en/get-started/writing-on-github)
-- [Interactive Markdown Tutorial](https://www.markdowntutorial.com/)
-- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
